@@ -1,4 +1,4 @@
-#  YOLOv3_TensorFlow
+#  Partition of YOLOv3_TensorFlow
 
 -------
 
@@ -7,6 +7,8 @@ This is modification of repo: [YOLOv3_tensorflow](https://github.com/wizyoung/YO
 ## Modification
 
 Implementation on initial version of partitioning neural network, feature map compression.
+
+
 
 ## Credits:
 
